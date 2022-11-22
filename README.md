@@ -1,4 +1,4 @@
-## Welcome-to-30-Days-of-JAVA
+## Welcome-to-60-Days-of-JAVA
 
 | Days          | Topics Covered |
 | ------------- | ------------- |
